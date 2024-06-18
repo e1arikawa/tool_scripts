@@ -1,2 +1,2 @@
-# tool_scripts
-tool_scripts
+# TOOLS
+* typescriptのツールスクリプト郡です。
